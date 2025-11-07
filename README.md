@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Cyber Security / HTML / CSS / Python / Swift
 - 💞️ I’m looking to collaborate on projects to change the world
 - 📫 How to reach me email me jimster53@gmail.com
+- My website is lurksquad.agency you can play pool here 
 
 <!---
 Jimster53/Jimster53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
